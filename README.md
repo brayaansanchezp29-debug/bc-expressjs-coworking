@@ -1,5 +1,6 @@
 # Coworking API — Bootcamp Express.js
 
+Repositorio de entregas del [Bootcamp de Express.js](https://github.com/ergrato-dev/bc-expressjs).
 Cada semana se desarrolla un proyecto distinto aplicado a mi dominio asignado:
 **Coworking Space**.
 
@@ -39,7 +40,7 @@ que pueden contratar.
 |--------|------|------|--------|
 | 01 | Node.js Fundamentals | [`week-01`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-01) | ✅ |
 | 02 | Express Intro (CRUD API) | [`week-02`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-02) | ✅ |
-| 03 | REST API y Arquitectura | `week-03` | ⏳ |
+| 03 | REST API y Arquitectura | [`week-03`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-03) | ✅ |
 | 04 | Validación y Error Handling | `week-04` | ⏳ |
 | 05 | PostgreSQL + Prisma | `week-05` | ⏳ |
 | 06 | MongoDB + Mongoose | `week-06` | ⏳ |
@@ -67,5 +68,7 @@ git checkout week-02   # ver/correr el proyecto de la semana 2
 ```
 
 ## 👤 Autor
+
+Entregas del Bootcamp de Express.js — dominio Coworking Space.
 
 Brayan Sanchez — 3228973B — dominio Coworking Space.
