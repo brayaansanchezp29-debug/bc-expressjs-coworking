@@ -31,6 +31,7 @@ que pueden contratar.
 
 - Node.js + TypeScript
 - Express.js
+- Zod (validación) · Winston + Morgan (logging)
 - (a partir de semana 05/06) PostgreSQL con Prisma / MongoDB con Mongoose
 - (a partir de semana 07/08) JWT para autenticación y autorización
 
@@ -41,7 +42,7 @@ que pueden contratar.
 | 01 | Node.js Fundamentals | [`week-01`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-01) | ✅ |
 | 02 | Express Intro (CRUD API) | [`week-02`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-02) | ✅ |
 | 03 | REST API y Arquitectura | [`week-03`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-03) | ✅ |
-| 04 | Validación y Error Handling | `week-04` | ⏳ |
+| 04 | Validación y Error Handling | [`week-04`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-04) | ✅ |
 | 05 | PostgreSQL + Prisma | `week-05` | ⏳ |
 | 06 | MongoDB + Mongoose | `week-06` | ⏳ |
 | 07 | Autenticación JWT | `week-07` | ⏳ |
