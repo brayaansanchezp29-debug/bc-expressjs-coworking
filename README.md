@@ -32,7 +32,8 @@ que pueden contratar.
 - Node.js + TypeScript
 - Express.js
 - Zod (validación) · Winston + Morgan (logging)
-- (a partir de semana 05/06) PostgreSQL con Prisma / MongoDB con Mongoose
+- PostgreSQL + Prisma ORM (desde semana 05)
+- (a partir de semana 06) MongoDB con Mongoose
 - (a partir de semana 07/08) JWT para autenticación y autorización
 
 ## 📅 Progreso semanal
@@ -43,7 +44,7 @@ que pueden contratar.
 | 02 | Express Intro (CRUD API) | [`week-02`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-02) | ✅ |
 | 03 | REST API y Arquitectura | [`week-03`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-03) | ✅ |
 | 04 | Validación y Error Handling | [`week-04`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-04) | ✅ |
-| 05 | PostgreSQL + Prisma | `week-05` | ⏳ |
+| 05 | PostgreSQL + Prisma | [`week-05`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-05) | ✅ |
 | 06 | MongoDB + Mongoose | `week-06` | ⏳ |
 | 07 | Autenticación JWT | `week-07` | ⏳ |
 | 08 | Autorización y Seguridad | `week-08` | ⏳ |
@@ -65,7 +66,7 @@ Cada rama `week-NN` es independiente y contiene su propio proyecto completo
 
 ```bash
 git checkout week-01   # ver/correr el proyecto de la semana 1
-git checkout week-02   # ver/correr el proyecto de la semana 2
+git checkout week-05   # ver/correr el proyecto de la semana 5
 ```
 
 ## 👤 Autor
