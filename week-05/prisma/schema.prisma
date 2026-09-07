@@ -1,0 +1,39 @@
+// Prisma Schema — Dominio: Coworking Space
+// Recurso principal: Space
+// Recurso secundario: SpaceCategory (relación 1:N — una categoría tiene muchos espacios)
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model SpaceCategory {
+  id          Int      @id @default(autoincrement())
+  name        String   @unique // ej. "Sala de Reunión", "Oficina Privada"
+  description String?
+  createdAt   DateTime @default(now())
+
+  spaces Space[]
+
+  @@map("space_categories")
+}
+
+model Space {
+  id            Int      @id @default(autoincrement())
+  name          String // ej. "Sala Ártico"
+  code          String   @unique // ej. "SP-001" — código interno único del espacio
+  capacity      Int // aforo máximo
+  pricePerHour  Float // precio por hora en USD
+  available     Boolean  @default(true)
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  category   SpaceCategory @relation(fields: [categoryId], references: [id])
+  categoryId Int
+
+  @@map("spaces")
+}
