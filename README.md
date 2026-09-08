@@ -34,7 +34,7 @@ que pueden contratar.
 - Zod (validación) · Winston + Morgan (logging)
 - PostgreSQL + Prisma ORM (desde semana 05)
 - MongoDB + Mongoose (desde semana 06)
-- (a partir de semana 07/08) JWT para autenticación y autorización
+- Autenticación JWT (access/refresh) + bcrypt (desde semana 07)
 
 ## 📅 Progreso semanal
 
@@ -46,7 +46,7 @@ que pueden contratar.
 | 04 | Validación y Error Handling | [`week-04`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-04) | ✅ |
 | 05 | PostgreSQL + Prisma | [`week-05`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-05) | ✅ |
 | 06 | MongoDB + Mongoose | [`week-06`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-06) | ✅ |
-| 07 | Autenticación JWT | `week-07` | ⏳ |
+| 07 | Autenticación JWT | [`week-07`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-07) | ✅ |
 | 08 | Autorización y Seguridad | `week-08` | ⏳ |
 | 09 | Testing | `week-09` | ⏳ |
 | 10 | Uploads y Emails | `week-10` | ⏳ |
