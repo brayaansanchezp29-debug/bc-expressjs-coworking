@@ -49,7 +49,7 @@ que pueden contratar.
 | 06 | MongoDB + Mongoose | [`week-06`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-06) | ✅ |
 | 07 | Autenticación JWT | [`week-07`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-07) | ✅ |
 | 08 | Autorización y Seguridad | [`week-08`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-08) | ✅ |
-| 09 | Testing | `week-09` | ⏳ |
+| 09 | Testing | [`week-09`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-09) | ✅ |
 | 10 | Uploads y Emails | `week-10` | ⏳ |
 | 11 | WebSockets | `week-11` | ⏳ |
 | 12 | Caching y Performance | `week-12` | ⏳ |
