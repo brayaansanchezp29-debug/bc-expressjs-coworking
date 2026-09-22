@@ -35,6 +35,7 @@ que pueden contratar.
 - PostgreSQL + Prisma ORM (desde semana 05)
 - MongoDB + Mongoose (desde semana 06)
 - Autenticación JWT (access/refresh) + bcrypt (desde semana 07)
+- RBAC, Helmet, CORS whitelist, rate limiting, sanitización NoSQL (desde semana 08)
 
 ## 📅 Progreso semanal
 
@@ -47,7 +48,7 @@ que pueden contratar.
 | 05 | PostgreSQL + Prisma | [`week-05`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-05) | ✅ |
 | 06 | MongoDB + Mongoose | [`week-06`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-06) | ✅ |
 | 07 | Autenticación JWT | [`week-07`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-07) | ✅ |
-| 08 | Autorización y Seguridad | `week-08` | ⏳ |
+| 08 | Autorización y Seguridad | [`week-08`](https://github.com/brayaansanchezp29-debug/bc-expressjs-coworking/tree/week-08) | ✅ |
 | 09 | Testing | `week-09` | ⏳ |
 | 10 | Uploads y Emails | `week-10` | ⏳ |
 | 11 | WebSockets | `week-11` | ⏳ |
@@ -66,7 +67,7 @@ Cada rama `week-NN` es independiente y contiene su propio proyecto completo
 
 ```bash
 git checkout week-01   # ver/correr el proyecto de la semana 1
-git checkout week-05   # ver/correr el proyecto de la semana 5
+git checkout week-08   # ver/correr el proyecto de la semana 8
 ```
 
 ## 👤 Autor
